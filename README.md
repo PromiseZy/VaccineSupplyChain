@@ -1,4 +1,8 @@
-# VaccineSupplyChain
+# VaccineSupplyChain<br />
+
+#รายระเอียดการทำงานของระบบสามารถดูได้ที่ไฟล์<br />
+B6201067-ปรมี สุริยะจันทร์โณ-presentation.pdf และ B6201067-ปรมี สุริยะจันทร์โณ-report.pdf<br />
+
 
 # ขั้นตอนการติดตั้ง<br />
 ติดตั้ง nodeJs, npm, Ganache และ Metamask บน Browser<br />
