@@ -1,0 +1,6 @@
+complie ใช้ truffle complie
+deploy ใช้ truffle migrate
+
+
+
+abc123,Moderna,A1785,100,-7,USA,THAILAND

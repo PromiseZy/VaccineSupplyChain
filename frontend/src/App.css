@@ -1,0 +1,107 @@
+input[type="checkbox"] {
+  /* Style the checkbox */
+  width: 20px;
+  height: 20px;
+  border: 2px solid gray;
+  border-radius: 3px;
+}
+
+input[type="checkbox"]:checked {
+  /* Style the checkbox when it is checked */
+  background-color: blue;
+}
+
+label {
+  /* Style the label */
+  font-size: 16px;
+  color: gray;
+}
+.App-header {
+  background-color: #ffdd40;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.highlight {
+  color: red;
+}
+
+.highlight-g {
+  color: #4CAF50;
+}
+
+
+
+.App-middle {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+h5 {
+  text-align: right;
+}
+p {
+  text-align: center;
+}
+.App-link {
+  color: #61dafb;
+}
+
+input[type=text], select {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=number], select {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 30%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button {
+  width: 30%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
